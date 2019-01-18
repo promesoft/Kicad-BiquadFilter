@@ -7,9 +7,13 @@ Manually variable stereo filter (BP, HP, LP) in two sections
  * Footprint of Op Amp little too small for the packages in stock
  
 ### Issues and Notes
- - Rev B should handle connectors and Potmeters on the PCB
+Issues
+
+Wishlist for Rev B 
+ - should handle connectors and Potmeters on the PCB
  - Focus on Eurorack compatibility
  - Mono filter 
+ - VCF option
 
 ## Physical Construction
  - 100x100mm
