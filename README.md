@@ -11,6 +11,7 @@ Issues
 
 Wishlist for Rev B 
  - should handle connectors and Potmeters on the PCB
+ - Potmeters should have optional resistor in series and parallel
  - Focus on Eurorack compatibility
  - Mono filter 
  - VCF option
