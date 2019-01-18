@@ -7,10 +7,14 @@ Manually variable stereo filter (BP, HP, LP) in two sections
  * Footprint of Op Amp little too small for the packages in stock
  
 ### Issues and Notes
- - 
+ - Rev B should handle connectors and Potmeters on the PCB
+ - Focus on Eurorack compatibility
+ - Mono filter 
 
 ## Physical Construction
  - 100x100mm
+ - Several resistors has been selected as THT components so a Potmeter can be placed instead
+ 
 The board is split in two, joined at the center of the board. Each section is a stereo section that can operate individually.
 ### Section 1 - State Variable filter and buffer amp
 ![](Filter_Section1Sch.png)
