@@ -11,7 +11,7 @@ Manually variable stereo filter (BP, HP, LP) in two sections
 ## Physical Construction
 The board is split in two, joined at the center of the board. Each section is a stereo section that can operate individually.
 ### Section 1 - State Variable filter and buffer amp
-
+![](Filter_Section1Sch.png)
 ### Section 2 - State Variable filter and regulator
 
 ## Features
