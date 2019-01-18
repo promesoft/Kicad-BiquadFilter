@@ -12,6 +12,8 @@ Issues
 Wishlist for Rev B 
  - should handle connectors and Potmeters on the PCB
  - Potmeters should have optional resistor in series and parallel
+ - Section 1 adjustable: R5/6 stereo 100k + 680R and R11/13 stereo 20k + 680R
+ - Capacitors as THT 47nF polyprop
  - Focus on Eurorack compatibility
  - Mono filter 
  - VCF option
