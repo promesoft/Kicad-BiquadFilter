@@ -15,3 +15,6 @@ Manually variable stereo filter (BP, HP, LP) in two sections
 ### Section 2 - State Variable filter and regulator
 
 ## Features
+The state variable filter can be configured in different ways and needs to be calculated before the components are selected.
+
+https://www.electronics-tutorials.ws/filter/state-variable-filter.html
