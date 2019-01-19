@@ -42,8 +42,9 @@ The board is split in two, joined at the center of the board. Each section is a 
  - R16 / C15 - 47nF
  - R18 / C17 - 47nF
  
- 
+Fc - 163Hz - 5KHz 
 
+Q - 0,68 - 6,9
 
 ## Features
 The state variable filter can be configured in different ways and needs to be calculated before the components are selected.
