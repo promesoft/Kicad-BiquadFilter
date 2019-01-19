@@ -30,7 +30,21 @@ The board is split in two, joined at the center of the board. Each section is a 
 
 ## Vital Components
  - Op Amp is chosen as MC33078 but can be selected as long as its pin compatible like (ua833, TL062, TL072, TL082, etc)
+
+### Section 1 Filter components for High Q variable freq and Q:
+ - R8 / R5   - 680R + 100k Stereo Pot
+ - R10 / R7  - 680R + 100k Stereo Pot
+ - R3 / R1   - 47k
+ - R4 / R2   - 47k
+ - R9 / R6   - 47k
+ - R12 / R11 - 680R + 20k Stereo Pot
+ - R14 / R13 - 680R + 20k Stereo Pot
+ - R16 / C15 - 47nF
+ - R18 / C17 - 47nF
  
+ 
+
+
 ## Features
 The state variable filter can be configured in different ways and needs to be calculated before the components are selected.
 
